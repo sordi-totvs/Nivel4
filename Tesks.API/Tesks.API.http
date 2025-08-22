@@ -1,0 +1,6 @@
+@Tesks.API_HostAddress = http://localhost:5007
+
+GET {{Tesks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
